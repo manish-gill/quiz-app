@@ -6,13 +6,6 @@ const Footer = () => {
         marginBottom: 10,
       }}
     >
-      Made with ♥ by{" "}
-      <a
-        href="https://www.youtube.com/roadsidecoder"
-        style={{ cursor: "pointer" }}
-      >
-        Roadside Coder
-      </a>
     </div>
   );
 };
